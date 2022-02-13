@@ -2,7 +2,9 @@
 **Disclaimer:** This is for educational purposes only.
 
 ## Summary
-Parallel Blind-SQL Injection done in ~30 lines of code that I'm really proud of. Why? It has a Timing based control Structure that does not contain any `if else` statement. I think it's just really neat. It's also super fast. 
+Parallel Blind-SQL Injection done in ~30 lines of code that solves the challenge in ~ 10 Seconds. I'm really proud of it.
+
+Other Writeups on the internet have more code and take a lot more time. How? It has a Timing based control Structure that does not contain any `if-Statement`. I think it's just really neat. It's also super fast. 
 
 **Usage:** `python3 natas17.py `
 
